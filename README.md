@@ -1,9 +1,10 @@
 # Crowdfunding_ETL
 Project #2 Module 13 with Brian Fitzpatrick, Tia Chesley, and Isabelle Scrimsher
 
-STEPS:
+The CSV files folder has CSV files created for the assignment.
 
-    1. Create Category and Subcategory Dataframes
-    2. Create Campaign Dataframe
-    3. Create Contacts Dataframe
-    4. Create Crowdfunding Database
+The resources files has the orginal files.
+
+The jupyter notebook ETL_Mini_Project_TChesley_BFitzpatrick_IScrimsher.ipynb has our code, we used the starter code.
+
+Finally the crowdfunding_db_schema has the sql part of the assignment.
